@@ -1,0 +1,30 @@
+{
+  "sensor_id": "HYD-SENSOR-01",
+  "readings": [
+    {
+      "timestamp": "2026-01-01T09:00:00",
+      "temperature": 31.2,
+      "humidity": 61
+    },
+    {
+      "timestamp": "2026-01-01T10:00:00",
+      "temperature": 32.0,
+      "humidity": 59
+    },
+    {
+      "timestamp": "2026-01-01T11:00:00",
+      "temperature": 33.1,
+      "humidity": 57
+    },
+    {
+      "timestamp": "2026-01-01T12:00:00",
+      "temperature": null,
+      "humidity": 55
+    },
+    {
+      "timestamp": "2026-01-01T13:00:00",
+      "temperature": 34.0,
+      "humidity": 54
+    }
+  ]
+}
