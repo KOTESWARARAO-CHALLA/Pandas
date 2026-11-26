@@ -1,0 +1,9 @@
+student_id,name,age,marks,attendance,city
+101,Ravi,21,85.0,92.5,Hyderabad
+102,Kiran,22,90.0,95.0,Chennai
+103,Arun,20,78.0,88.0,Bengaluru
+104,Sai,23,95.0,98.0,Hyderabad
+105,Rahul,21,65.0,75.5,Pune
+106,Priya,22,88.0,91.0,Chennai
+107,Meena,20,,84.0,Pune
+108,Anil,24,72.0,80.5,Bengaluru
