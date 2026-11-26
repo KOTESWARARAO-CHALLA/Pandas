@@ -87,6 +87,5 @@ This repository will be continuously updated as I progress in my Pandas learning
 
 ---
 
-**Learning today, building intelligent solutions tomorrow.**
 
 
